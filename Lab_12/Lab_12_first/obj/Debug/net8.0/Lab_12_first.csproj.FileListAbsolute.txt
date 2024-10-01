@@ -1,0 +1,14 @@
+D:\OOP\Lab_12\Lab_12_first\bin\Debug\net8.0\Lab_12_first.exe
+D:\OOP\Lab_12\Lab_12_first\bin\Debug\net8.0\Lab_12_first.deps.json
+D:\OOP\Lab_12\Lab_12_first\bin\Debug\net8.0\Lab_12_first.runtimeconfig.json
+D:\OOP\Lab_12\Lab_12_first\bin\Debug\net8.0\Lab_12_first.dll
+D:\OOP\Lab_12\Lab_12_first\bin\Debug\net8.0\Lab_12_first.pdb
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.AssemblyInfoInputs.cache
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.AssemblyInfo.cs
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.csproj.CoreCompileInputs.cache
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.dll
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\refint\Lab_12_first.dll
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.pdb
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.genruntimeconfig.cache
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\ref\Lab_12_first.dll
