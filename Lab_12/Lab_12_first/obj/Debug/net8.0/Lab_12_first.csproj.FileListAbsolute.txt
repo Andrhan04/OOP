@@ -12,3 +12,4 @@ D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\refint\Lab_12_first.dll
 D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.pdb
 D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.genruntimeconfig.cache
 D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\ref\Lab_12_first.dll
+D:\OOP\Lab_12\Lab_12_first\obj\Debug\net8.0\Lab_12_first.sourcelink.json
