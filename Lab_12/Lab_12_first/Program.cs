@@ -1,4 +1,4 @@
-﻿using Lab_12_first;
+using Lab_12_first;
 using Lab_12_first.Listeners;
 using Lab_12_first.Recipients;
 using System.Net.Http.Headers;
@@ -35,13 +35,10 @@ using System.Net.Http.Headers;
 List<Listener> listeners = new List<Listener>();
 listeners.Add(new NASA());
 listeners.Add(new Club());
+listeners.Add(new Classifier());
 
 Royal_Greenwich_Observatory observatory = new Royal_Greenwich_Observatory(listeners);
-
-observatory.GetData();
-observatory.GiveData();
-
-foreach (Listener listener in listeners)
+for (int i = 0; i < 5; i++)
 {
-    listener.MyData();
+    observatory.GetData();
 }
