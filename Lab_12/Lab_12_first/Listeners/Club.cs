@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,6 +21,10 @@ namespace Lab_12_first.Listeners
         public override void Take(Asteroid a)
         {
             asteroid.Add(new List<int> { a.Mass, a.Speed });
+        }
+        public override void Clear()
+        {
+            asteroid = new List<List<int>>();
         }
     }
 }
