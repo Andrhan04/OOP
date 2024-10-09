@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,5 +10,6 @@ namespace Lab_12_first.Listeners
     {
         public abstract void Take(Asteroid a);
         public abstract void MyData();
+        public abstract void Clear();
     }
 }

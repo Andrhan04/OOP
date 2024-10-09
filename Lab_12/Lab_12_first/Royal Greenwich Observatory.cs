@@ -1,4 +1,4 @@
-﻿using Lab_12_first.Listeners;
+using Lab_12_first.Listeners;
 using Lab_12_first.Recipients;
 using System;
 using System.Collections.Generic;
@@ -13,31 +13,36 @@ namespace Lab_12_first
         List<Asteroid> Observatory = new List<Asteroid>();
         List<Listener> listeners = new List<Listener> ();
         private string file = "Input.txt";
+        StreamReader Input;
         public Royal_Greenwich_Observatory(List<Listener> list)
         {
+            Input = new StreamReader(file);
             Observatory = new List<Asteroid>();
             listeners = list;
         }
 
-        public void GiveData()
+        public void GiveData(Asteroid a)
         {
-            foreach (Asteroid a in Observatory)
-            {
-                foreach (Listener listener in listeners)
-                {
-                    listener.Take(a);
-                }
+
+            foreach (Listener listener in listeners){
+                listener.Take(a);
+                listener.MyData();
+                Thread.Sleep(1000);
             }
         }
 
         public void GetData()
         {
-            string[] data = File.ReadAllLines(file);
-            foreach (string asteroid in data)
+            Observatory.Clear();
+            string data = Input.ReadLine();
+            while (data != null)
             {
-                Observatory.Add(new Asteroid(int.Parse(asteroid), int.Parse(asteroid), int.Parse(asteroid)));
+                string[] buf = data.Split();
+                Asteroid a = new Asteroid(int.Parse(buf[0]), int.Parse(buf[1]), int.Parse(buf[2]));
+                Observatory.Add(a);
+                GiveData(a);
+                data = Input.ReadLine();
             }
         }
-
     }
 }
