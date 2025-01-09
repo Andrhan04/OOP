@@ -9,7 +9,7 @@ namespace team.Movement.WheelsParams
 {
     internal class WheelsToLeftB : WheelsBugsyB, ICommand
     {
-        public WheelsToLeftB(WheelsBugsyB w) 
+        public WheelsToLeftB(WheelsBugsyB w)
         {
             wheels = w;
         }

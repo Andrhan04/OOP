@@ -10,7 +10,7 @@ namespace team
     internal class RemoteController
     {
         private const int _counter = 8;
-        public RemoteController() 
+        public RemoteController()
         {
             onCommands = new ICommand[_counter];
 

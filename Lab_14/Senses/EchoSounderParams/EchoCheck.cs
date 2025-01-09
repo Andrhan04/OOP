@@ -19,7 +19,7 @@ namespace team.Senses.EchoSounderParams
         {
             echo.Check();
         }
-        public void Undo() {}
+        public void Undo() { }
         public string GetName()
         {
             return "I see everything";
