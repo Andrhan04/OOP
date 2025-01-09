@@ -9,7 +9,7 @@ using team.Senses.EchoSounderParams;
 
 namespace team.Movement
 {
-    internal class MovementOnEcho : ICommand
+    internal class MovementOnEcho
     {
         public MovementOnEcho(EchoSounder e, WheelsForwardB w_f, WheelsBackB w_b)
         {
@@ -22,11 +22,11 @@ namespace team.Movement
         public WheelsForwardB wheels_f;
         public WheelsBackB wheels_b;
 
-        public void Execute() 
+        public void Execute()
         {
             double dist = echo.CheckDouble();
 
-            if (dist > 10) 
+            if (dist > 10)
             {
                 Console.WriteLine("Moving forward by 10 units...");
             }
@@ -35,7 +35,7 @@ namespace team.Movement
                 Console.WriteLine("Moving back by 5 units...");
             }
         }
-        public void Undo() {}
+        public void Undo() { }
 
         public string GetName()
         {

@@ -7,7 +7,7 @@ using team.Movement.WheelsParams;
 
 namespace team.Senses.EchoSounderParams
 {
-    internal class EchoCheck : EchoSounder, ICommand
+    internal class EchoCheck : EchoSounder
     {
         public EchoCheck(EchoSounder e)
         {
@@ -19,7 +19,7 @@ namespace team.Senses.EchoSounderParams
         {
             echo.Check();
         }
-        public void Undo() {}
+        public void Undo() { }
         public string GetName()
         {
             return "I see everything";

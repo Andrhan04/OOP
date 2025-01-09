@@ -8,10 +8,11 @@ namespace team
 {
     internal class NoCommand : ICommand
     {
-        public void Execute() {
+        public void Execute()
+        {
             Console.WriteLine("I either don't know what to do or I'm not capable");
         }
-        public void Undo() 
+        public void Undo()
         {
             Console.WriteLine("I either don't know what to do or I'm not capable");
         }

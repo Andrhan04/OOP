@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace team.Movement.WheelsParams.RosentialElectronics
 {
-    internal class WheelsActivateR : WheelsRosentialR, ICommand
+    internal class WheelsActivateR : WheelsRosentialR
     {
         public WheelsActivateR(WheelsRosentialR w)
         {

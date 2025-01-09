@@ -9,16 +9,16 @@ namespace team
 {
     internal class MacroCommands : ICommand
     {
-        public MacroCommands(ICommand[] com) 
+        public MacroCommands(ICommand[] com)
         {
             commands = com;
         }
 
         ICommand[] commands;
 
-        public void Execute() 
+        public void Execute()
         {
-            for (int i = 0; i < commands.Length; i++) 
+            for (int i = 0; i < commands.Length; i++)
             {
                 commands[i].Execute();
             }
