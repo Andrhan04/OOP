@@ -1,0 +1,14 @@
+C:\Users\Dorzhi\source\repos\Lab_16\bin\Debug\net8.0\Lab_16.exe
+C:\Users\Dorzhi\source\repos\Lab_16\bin\Debug\net8.0\Lab_16.deps.json
+C:\Users\Dorzhi\source\repos\Lab_16\bin\Debug\net8.0\Lab_16.runtimeconfig.json
+C:\Users\Dorzhi\source\repos\Lab_16\bin\Debug\net8.0\Lab_16.dll
+C:\Users\Dorzhi\source\repos\Lab_16\bin\Debug\net8.0\Lab_16.pdb
+C:\Users\Dorzhi\source\repos\Lab_16\obj\Debug\net8.0\Lab_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorzhi\source\repos\Lab_16\obj\Debug\net8.0\Lab_16.AssemblyInfoInputs.cache
+C:\Users\Dorzhi\source\repos\Lab_16\obj\Debug\net8.0\Lab_16.AssemblyInfo.cs
+C:\Users\Dorzhi\source\repos\Lab_16\obj\Debug\net8.0\Lab_16.csproj.CoreCompileInputs.cache
+C:\Users\Dorzhi\source\repos\Lab_16\obj\Debug\net8.0\Lab_16.dll
+C:\Users\Dorzhi\source\repos\Lab_16\obj\Debug\net8.0\refint\Lab_16.dll
+C:\Users\Dorzhi\source\repos\Lab_16\obj\Debug\net8.0\Lab_16.pdb
+C:\Users\Dorzhi\source\repos\Lab_16\obj\Debug\net8.0\Lab_16.genruntimeconfig.cache
+C:\Users\Dorzhi\source\repos\Lab_16\obj\Debug\net8.0\ref\Lab_16.dll

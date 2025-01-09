@@ -1,0 +1,7 @@
+C:\Users\Dorzhi\source\repos\SRS_DB\bin\Release\SRS_DB.exe.config
+C:\Users\Dorzhi\source\repos\SRS_DB\bin\Release\SRS_DB.exe
+C:\Users\Dorzhi\source\repos\SRS_DB\bin\Release\SRS_DB.pdb
+C:\Users\Dorzhi\source\repos\SRS_DB\obj\Release\SRS_DB.csproj.AssemblyReference.cache
+C:\Users\Dorzhi\source\repos\SRS_DB\obj\Release\SRS_DB.csproj.CoreCompileInputs.cache
+C:\Users\Dorzhi\source\repos\SRS_DB\obj\Release\SRS_DB.exe
+C:\Users\Dorzhi\source\repos\SRS_DB\obj\Release\SRS_DB.pdb

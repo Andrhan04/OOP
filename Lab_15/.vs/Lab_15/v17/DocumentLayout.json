@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|c:\\users\\dorzhi\\source\\repos\\lab_15\\jsonimportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|solutionrelative:jsonimportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|c:\\users\\dorzhi\\source\\repos\\lab_15\\jsoncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|solutionrelative:jsoncollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|c:\\users\\dorzhi\\source\\repos\\lab_15\\fractionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|solutionrelative:fractionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|c:\\users\\dorzhi\\source\\repos\\lab_15\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|solutionrelative:fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|c:\\users\\dorzhi\\source\\repos\\lab_15\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|solutionrelative:cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|c:\\users\\dorzhi\\source\\repos\\lab_15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|c:\\users\\dorzhi\\source\\repos\\lab_15\\catadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|solutionrelative:catadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|c:\\users\\dorzhi\\source\\repos\\lab_15\\lab_15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC3DABEF-7C30-4833-BC85-D709A719AD5C}|Lab_15.csproj|solutionrelative:lab_15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FractionAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\FractionAdapter.cs",
+              "RelativeDocumentMoniker": "FractionAdapter.cs",
+              "ToolTip": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\FractionAdapter.cs",
+              "RelativeToolTip": "FractionAdapter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:22:19.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab_15.csproj",
+              "DocumentMoniker": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\Lab_15.csproj",
+              "RelativeDocumentMoniker": "Lab_15.csproj",
+              "ToolTip": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\Lab_15.csproj",
+              "RelativeToolTip": "Lab_15.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T00:18:09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\Fraction.cs",
+              "RelativeDocumentMoniker": "Fraction.cs",
+              "ToolTip": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\Fraction.cs",
+              "RelativeToolTip": "Fraction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:49:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\JsonCollector.cs",
+              "RelativeDocumentMoniker": "JsonCollector.cs",
+              "ToolTip": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\JsonCollector.cs",
+              "RelativeToolTip": "JsonCollector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:40:23.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\Cat.cs",
+              "RelativeDocumentMoniker": "Cat.cs",
+              "ToolTip": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\Cat.cs",
+              "RelativeToolTip": "Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:34:13.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:23:10.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\CatAdapter.cs",
+              "RelativeDocumentMoniker": "CatAdapter.cs",
+              "ToolTip": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\CatAdapter.cs",
+              "RelativeToolTip": "CatAdapter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:26:13.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JSONImportable.cs",
+              "DocumentMoniker": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\JSONImportable.cs",
+              "RelativeDocumentMoniker": "JSONImportable.cs",
+              "ToolTip": "C:\\Users\\Dorzhi\\source\\repos\\Lab_15\\JSONImportable.cs",
+              "RelativeToolTip": "JSONImportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:24:09.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
