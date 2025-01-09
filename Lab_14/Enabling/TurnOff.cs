@@ -7,7 +7,7 @@ using team.Senses.EchoSounderParams;
 
 namespace team.Enabling
 {
-    internal class TurnOff : Enable, ICommand
+    internal class TurnOff : Enable
     {
         public TurnOff(Enable e)
         {

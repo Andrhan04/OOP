@@ -9,7 +9,7 @@ using team.Senses.EchoSounderParams;
 
 namespace team.Movement
 {
-    internal class MovementOnEcho : ICommand
+    internal class MovementOnEcho
     {
         public MovementOnEcho(EchoSounder e, WheelsForwardB w_f, WheelsBackB w_b)
         {

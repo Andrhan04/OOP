@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace team.Enabling
 {
-    internal class TurnOn : Enable, ICommand
+    internal class TurnOn : Enable
     {
         public TurnOn(Enable e)
         {

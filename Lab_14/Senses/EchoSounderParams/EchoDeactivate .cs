@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace team.Senses.EchoSounderParams
 {
-    internal class EchoDeactivate : EchoSounder, ICommand
+    internal class EchoDeactivate : EchoSounder
     {
         public EchoDeactivate(EchoSounder e)
         {
