@@ -7,7 +7,7 @@ using team.Movement.WheelsParams;
 
 namespace team.Senses.EchoSounderParams
 {
-    internal class EchoCheck : EchoSounder
+    internal class EchoCheck : EchoSounder, ICommand
     {
         public EchoCheck(EchoSounder e)
         {

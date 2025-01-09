@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using team.Movement.WheelsParams;
 
 namespace team.Senses.EchoSounderParams
 {
-    internal class EchoActivate : EchoSounder, ICommand
+    internal class EchoCheck : EchoSounder, ICommand
     {
-        public EchoActivate(EchoSounder e)
+        public EchoCheck(EchoSounder e)
         {
             echo = e;
         }
@@ -16,16 +17,12 @@ namespace team.Senses.EchoSounderParams
         public EchoSounder echo;
         public void Execute()
         {
-            echo.Activate();
+            echo.Check();
         }
-        public void Undo()
-        {
-            echo.Deactivate();
-        }
-
+        public void Undo() {}
         public string GetName()
         {
-            return "I see you";
+            return "I see everything";
         }
     }
 }

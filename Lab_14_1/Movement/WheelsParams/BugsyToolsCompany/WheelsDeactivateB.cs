@@ -3,25 +3,26 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using team.Movement.WheelsParams.BugsyToolsCompany;
 
-namespace team.Movement.WheelsParams.RosentialElectronics
+namespace team.Movement.WheelsParams
 {
-    internal class WheelsDeactivateR : WheelsRosentialR, ICommand
+    internal class WheelsDeactivateB : WheelsBugsyB, ICommand
     {
-        public WheelsDeactivateR(WheelsRosentialR w)
+        public WheelsDeactivateB(WheelsBugsyB w)
         {
             wheels = w;
         }
 
-        public WheelsRosentialR wheels;
+        public WheelsBugsyB wheels;
         public void Execute()
         {
-            wheels.Deactivate1();
+            wheels.Deactivate2();
         }
 
         public void Undo()
         {
-            wheels.Activate1();
+            wheels.Activate2();
         }
 
         public string GetName()
