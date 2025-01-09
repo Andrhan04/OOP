@@ -1,4 +1,5 @@
 ﻿using Lab_15;
+using Lab_16;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,28 +10,29 @@ namespace Lab_16
 {
     internal class ConsoleWorker
     {
-        Fraction _fraction;
+        Alarm _alarm = null;
         public void CreateObject()
         {
-            if (_fraction != null)
+            if (_alarm != null)
             {
                 Console.WriteLine("Объект уже создан");
             }
             else
             {
-                Console.WriteLine("Введите числитель и знаменатель");
-                int numerator  = Int32.Parse(Console.ReadLine());
-                int denominator = Int32.Parse(Console.ReadLine());
-                _fraction = new Fraction(numerator, denominator);
+                Console.WriteLine("Введите часы");
+                int hour  = int.Parse(Console.ReadLine());
+                Console.WriteLine("Введите минуты");
+                int min = int.Parse(Console.ReadLine());
+                _alarm = new Alarm(hour, min);
             }
 
 
         }
         public void PrintObject()
         {
-            if (_fraction != null)
+            if (_alarm != null)
             {
-                Console.WriteLine(_fraction.Print());
+                Console.WriteLine(_alarm);
             }
             else
             {
@@ -39,9 +41,9 @@ namespace Lab_16
         }
         public void EraseObject()
         {
-            if (_fraction != null)
+            if (_alarm != null)
             {
-                _fraction = null;
+                _alarm = null;
                 Console.WriteLine("Объект успешно стерт");
             }
             else
@@ -55,7 +57,7 @@ namespace Lab_16
             
             string line = Console.ReadLine();
             int operation;
-            if (Int32.TryParse(line, out operation))
+            if (int.TryParse(line, out operation))
             {
                 if (operation == 1)
                 {
